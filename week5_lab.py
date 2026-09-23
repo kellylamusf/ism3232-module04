@@ -27,5 +27,3 @@ user_qty = int(input("Enter a new quantity: "))
 new_total = unit_price * user_qty * 1.07
 print(f"New total for {user_qty} units: ${new_total:.2f}")
 print(f"Requires Approval: {new_total > 1000}")
-
-
