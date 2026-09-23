@@ -1,6 +1,6 @@
 # week5_lab.py
 # Author: Kelly Lam
-# Business Domain:
+# Business Domain: Laptop Purchasing System
 
 product_name = "Laptop"
 status = "Pending"
